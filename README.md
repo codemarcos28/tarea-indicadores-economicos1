@@ -1,2 +1,2 @@
-# tarea-indicadores-economicos1
-Tarea indicadores económicos  Marcos Sepúlveda y Alvaro Prieto
+# tarea-indicadores-economicos
+Tarea de indicadores económicos Marcos Sepúlveda y Alvaro Prieto

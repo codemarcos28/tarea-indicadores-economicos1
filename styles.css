@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    background-color: #343a40;
+  }
+  
+  .navbar-brand {
+    color: #ffffff;
+    font-weight: bold;
+  }
+  
+  .jumbotron {
+    background-image: url(/stock-market-background.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    text-shadow: 12px 12px 14px rgba(0, 0, 0, 0.6);
+  }
+ 
+  .card {
+    margin-top: 20px;
+  }
+  
+  .card-header {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+  
+  .card-body {
+    background-color: #ffffff;
+  }
+  
+  #chartIndicador {
+    background-color: #ffffff;
+  }
+  
+  .btn-group {
+    margin-top: 20px;
+  }
+  
